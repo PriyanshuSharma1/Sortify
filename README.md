@@ -31,7 +31,7 @@ Prioritizes user privacy and data security, implementing robust measures to safe
 
 ## ${\color{lightblue} Getting Started}$
 
-To get started with FileHarbor, simply clone this repository and follow the installation instructions in the provided documentation. Once installed, you'll be on your way to enjoying a clutter-free and organized digital workspace.
+To get started with Sortify, simply clone this repository and follow the installation instructions in the provided documentation. Once installed, you'll be on your way to enjoying a clutter-free and organized digital workspace.
 
 ## ${\color{lightblue}Contributing}$
 
